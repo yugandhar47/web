@@ -180,6 +180,12 @@ section {
 .header .logo {
   line-height: 0;
 }
+.header-scrolled.header .logo {
+  max-height: 40px;
+  transition-delay: .2s;
+  opacity: 1;
+  transform: translateZ(0) scale(1);
+}
 
 .header .logo img {
   max-height: 100px;
