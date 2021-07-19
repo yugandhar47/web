@@ -180,7 +180,7 @@ section {
 .header .logo {
   line-height: 0;
 }
-.header-scrolled.header .logo {
+.header-scrolled.header .logo img {
   max-height: 40px;
   transition-delay: .2s;
   opacity: 1;
