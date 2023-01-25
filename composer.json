@@ -1,0 +1,8 @@
+{
+    "name": "yugandhar/sample-web",
+    "description": "Sample PHP application for App Platform",
+    "type": "project",
+    "require": {
+        "alrik11es/cowsayphp": "^1.2"
+    }
+}
