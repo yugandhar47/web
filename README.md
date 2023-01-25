@@ -1,2 +1,2 @@
 # web
-www.localtalents.net
+www.yinfosys.com
